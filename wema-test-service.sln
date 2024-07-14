@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "wema-test-service.Api", "wema-test-service.Api\wema-test-service.Api.csproj", "{3D69687F-9C96-4866-9692-113DA7A726D3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "wema-test-service.Data", "wema-test-service.Data\wema-test-service.Data.csproj", "{DA06D343-7FE8-4AB7-92A2-26D129ECA925}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "wema-test-service.Services", "wema-test-service.Services\wema-test-service.Services.csproj", "{89BE4FA1-3207-4347-9402-6CD99351FB3F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "wema-test-service.Common", "wema-test-service.Common\wema-test-service.Common.csproj", "{B5CC385E-8EFF-4E69-9782-0EA1D6CC4757}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3D69687F-9C96-4866-9692-113DA7A726D3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3D69687F-9C96-4866-9692-113DA7A726D3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3D69687F-9C96-4866-9692-113DA7A726D3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3D69687F-9C96-4866-9692-113DA7A726D3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DA06D343-7FE8-4AB7-92A2-26D129ECA925}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DA06D343-7FE8-4AB7-92A2-26D129ECA925}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DA06D343-7FE8-4AB7-92A2-26D129ECA925}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DA06D343-7FE8-4AB7-92A2-26D129ECA925}.Release|Any CPU.Build.0 = Release|Any CPU
+		{89BE4FA1-3207-4347-9402-6CD99351FB3F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{89BE4FA1-3207-4347-9402-6CD99351FB3F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{89BE4FA1-3207-4347-9402-6CD99351FB3F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{89BE4FA1-3207-4347-9402-6CD99351FB3F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B5CC385E-8EFF-4E69-9782-0EA1D6CC4757}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B5CC385E-8EFF-4E69-9782-0EA1D6CC4757}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B5CC385E-8EFF-4E69-9782-0EA1D6CC4757}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B5CC385E-8EFF-4E69-9782-0EA1D6CC4757}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

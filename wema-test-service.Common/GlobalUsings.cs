@@ -1,0 +1,13 @@
+﻿global using Microsoft.AspNetCore.Mvc.Filters;
+global using System.Net;
+global using Microsoft.AspNetCore.Mvc;
+global using wema_test_service.Common.Constants;
+global using wema_test_service.Common.Models;
+global using Microsoft.AspNetCore.Http;
+global using Microsoft.Extensions.Logging;
+global using Microsoft.AspNetCore.Hosting;
+global using Newtonsoft.Json;
+global using Newtonsoft.Json.Serialization;
+global using wema_test_service.Common.Exceptions;
+global using System.Text;
+global using Microsoft.AspNetCore.Identity;

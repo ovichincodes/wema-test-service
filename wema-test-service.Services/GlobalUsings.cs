@@ -1,0 +1,13 @@
+﻿global using wema_test_service.Data.Entities;
+global using Microsoft.Extensions.Logging;
+global using Microsoft.Extensions.Options;
+global using wema_test_service.Common.Enums;
+global using wema_test_service.Common.Exceptions;
+global using wema_test_service.Common.Helpers;
+global using wema_test_service.Common.Models;
+global using wema_test_service.Data.Repositories.Interfaces;
+global using wema_test_service.Services.Interfaces;
+global using Microsoft.EntityFrameworkCore;
+global using Microsoft.EntityFrameworkCore.Storage;
+global using Microsoft.Extensions.DependencyInjection;
+global using Microsoft.Extensions.Caching.Memory;
